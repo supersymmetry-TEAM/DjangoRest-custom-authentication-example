@@ -2,6 +2,6 @@
 
 prerequsite - python 3.8.5
 
-this is quick setting for DjangoRest token authentication.
+this is quick api code for DjangoRest token authentication.
 
-And the setup has already been completed for DjangoRest.
+
