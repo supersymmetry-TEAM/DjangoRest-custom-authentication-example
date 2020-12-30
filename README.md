@@ -14,8 +14,8 @@ REST_FRAMEWORK = {
 }
 
 INSTALLED_APPS = [
- ...
+ ...,
     'yourappname.apps.YourappnameConfig',
- ...
+ ...,
  ...
 ]
