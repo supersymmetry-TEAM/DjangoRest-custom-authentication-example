@@ -1,4 +1,4 @@
-# django-rest-token-authentication-setting
+# django-rest-token-authentication-app
 
 prerequsite - python 3.8.5
 
