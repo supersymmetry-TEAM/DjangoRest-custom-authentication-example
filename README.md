@@ -1,4 +1,4 @@
-# django-custom-authentication-example
+# django-rest-custom-authentication-example
 
 
 This is example if custom authentication.
@@ -24,21 +24,5 @@ REST_FRAMEWORK =
     ],
 }
 
-
-INSTALLED_APPS = 
-
-[
-
- ...,
- 
- ...,
- 
-    'yourappname.apps.YourappnameConfig',
-    
- ...,
- 
- ...
- 
-]
 
  
