@@ -26,6 +26,7 @@ REST_FRAMEWORK =
 
 
 INSTALLED_APPS = 
+
 [
 
  ...,
