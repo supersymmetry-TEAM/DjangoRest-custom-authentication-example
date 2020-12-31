@@ -11,17 +11,24 @@ and below code in setting.py
 
 !Note! : you should change yourappname 
 
-REST_FRAMEWORK = {
 
+
+REST_FRAMEWORK = 
+
+{
+    
     "DEFAULT_AUTHENTICATION_CLASSES": [
     
-        "yourappname.authentication.JWTAuthentication",
+    "yourappname.authentication.JWTAuthentication",
         
     ],
 }
 
+
 INSTALLED_APPS = [
 
+ ...,
+ 
  ...,
  
     'yourappname.apps.YourappnameConfig',
