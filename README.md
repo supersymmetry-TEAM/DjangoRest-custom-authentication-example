@@ -1,7 +1,7 @@
 # django-rest-custom-authentication-example
 
 
-this is example if custom authentication.
+This is example if custom authentication.
 
 The authentication.py file override override the .authenticate(self, request) method.
 
