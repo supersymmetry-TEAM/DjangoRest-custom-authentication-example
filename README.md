@@ -3,7 +3,7 @@
 
 this is quick api code for DjangoRest token authentication.
 
-The authentication.py file override BaseAuthentication.
+The authentication.py file override override the .authenticate(self, request) method.
 
 you should add below code in setting.py
 
