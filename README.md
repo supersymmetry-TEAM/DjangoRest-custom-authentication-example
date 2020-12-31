@@ -1,7 +1,7 @@
-# django-rest-token-authentication-app
+# django-rest-custom-authentication-example
 
 
-this is quick api code for DjangoRest token authentication.
+this is example if custom authentication.
 
 The authentication.py file override override the .authenticate(self, request) method.
 
