@@ -1,4 +1,4 @@
-# django-rest-custom-authentication-example
+# django-custom-authentication-example
 
 
 This is example if custom authentication.
