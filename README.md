@@ -3,9 +3,9 @@
 
 this is quick api code for DjangoRest token authentication.
 
-The authentication.py file overriied BaseAuthentication.
+The authentication.py file override BaseAuthentication.
 
-you should add avobe code in setting.py
+you should add below code in setting.py
 
 !Note! : you should change yourappname 
 
@@ -21,3 +21,5 @@ INSTALLED_APPS = [
  ...,
  ...
 ]
+
+ 
