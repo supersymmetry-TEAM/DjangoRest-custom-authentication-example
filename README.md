@@ -1,7 +1,9 @@
 # django-rest-custom-authentication-example
 
 
-This is example if custom authentication.
+This is example if custom JWT token authentication. 
+
+This will be check every request. The request have a token with in HTTP 
 
 The authentication.py file override override the .authenticate(self, request) method.
 
